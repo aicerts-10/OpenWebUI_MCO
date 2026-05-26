@@ -1,4 +1,4 @@
-# SEO Blog Agent - Simple High-Level Architecture
+# SEO Blog Agent - High-Level Architecture
 
 This document provides a straightforward, easy-to-understand overview of how the SEO Blog Agent system creates and publishes a blog post from start to finish — including how it can publish to **any company's website**, not just WordPress.
 
